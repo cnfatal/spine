@@ -1,0 +1,279 @@
+
+da07_01_Cg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm2_L_Lv2
+  rotate: true
+  xy: 1824, 970
+  size: 232, 222
+  orig: 232, 222
+  offset: 0, 0
+  index: -1
+Arm2_L_Lv3+4
+  rotate: true
+  xy: 1583, 474
+  size: 232, 222
+  orig: 232, 222
+  offset: 0, 0
+  index: -1
+Arm2_R_Lv2+3+4
+  rotate: true
+  xy: 1548, 1204
+  size: 159, 348
+  orig: 159, 348
+  offset: 0, 0
+  index: -1
+Arm_L_Lv1
+  rotate: false
+  xy: 561, 2
+  size: 239, 248
+  orig: 239, 248
+  offset: 0, 0
+  index: -1
+Arm_R_Lv1
+  rotate: false
+  xy: 1352, 922
+  size: 173, 383
+  orig: 173, 383
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 977, 324
+  size: 81, 58
+  orig: 87, 59
+  offset: 4, 0
+  index: -1
+Lv1+2_skirt_B
+  rotate: false
+  xy: 1527, 971
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+Lv1_cloth
+  rotate: true
+  xy: 1527, 1008
+  size: 194, 295
+  orig: 226, 295
+  offset: 0, 0
+  index: -1
+Lv1_cloth2_B
+  rotate: false
+  xy: 691, 1307
+  size: 855, 739
+  orig: 855, 739
+  offset: 0, 0
+  index: -1
+Lv1_skirt
+  rotate: false
+  xy: 1583, 276
+  size: 215, 196
+  orig: 215, 196
+  offset: 0, 0
+  index: -1
+Lv2+3+4_cloth
+  rotate: false
+  xy: 1583, 708
+  size: 180, 298
+  orig: 180, 298
+  offset: 0, 0
+  index: -1
+Lv2_skirt
+  rotate: false
+  xy: 1807, 605
+  size: 215, 196
+  orig: 215, 196
+  offset: 0, 0
+  index: -1
+Lv3Panty
+  rotate: false
+  xy: 1800, 356
+  size: 171, 86
+  orig: 171, 86
+  offset: 0, 0
+  index: -1
+Thigh_L_Lv1+2
+  rotate: false
+  xy: 561, 252
+  size: 165, 660
+  orig: 165, 660
+  offset: 0, 0
+  index: -1
+Thigh_L_Lv3
+  rotate: false
+  xy: 1047, 262
+  size: 164, 650
+  orig: 167, 650
+  offset: 3, 0
+  index: -1
+Thigh_L_Lv4
+  rotate: false
+  xy: 1213, 262
+  size: 164, 650
+  orig: 167, 650
+  offset: 3, 0
+  index: -1
+Thigh_R_Lv1+2
+  rotate: false
+  xy: 1379, 341
+  size: 100, 579
+  orig: 100, 579
+  offset: 0, 0
+  index: -1
+Thigh_R_Lv3
+  rotate: false
+  xy: 1481, 347
+  size: 100, 573
+  orig: 100, 573
+  offset: 0, 0
+  index: -1
+Thigh_R_Lv4
+  rotate: true
+  xy: 802, 160
+  size: 100, 573
+  orig: 100, 573
+  offset: 0, 0
+  index: -1
+bodyDoLv3
+  rotate: false
+  xy: 728, 274
+  size: 180, 131
+  orig: 181, 147
+  offset: 1, 16
+  index: -1
+bodyDoLv4
+  rotate: false
+  xy: 986, 27
+  size: 180, 131
+  orig: 181, 147
+  offset: 1, 16
+  index: -1
+chest_L_LV1
+  rotate: false
+  xy: 1379, 240
+  size: 105, 99
+  orig: 105, 99
+  offset: 0, 0
+  index: -1
+chest_L_LV2
+  rotate: true
+  xy: 1911, 251
+  size: 103, 96
+  orig: 103, 96
+  offset: 0, 0
+  index: -1
+chest_L_LV3+4
+  rotate: false
+  xy: 561, 931
+  size: 114, 112
+  orig: 114, 112
+  offset: 0, 0
+  index: -1
+chest_R_LV1
+  rotate: true
+  xy: 1800, 257
+  size: 97, 109
+  orig: 97, 109
+  offset: 0, 0
+  index: -1
+chest_R_LV2
+  rotate: true
+  xy: 1311, 42
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+chest_R_LV3+4
+  rotate: true
+  xy: 1377, 140
+  size: 98, 108
+  orig: 98, 108
+  offset: 0, 0
+  index: -1
+cloth_Ex1
+  rotate: false
+  xy: 910, 262
+  size: 65, 143
+  orig: 65, 143
+  offset: 0, 0
+  index: -1
+cloth_Ex2_LV1
+  rotate: false
+  xy: 1765, 980
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: true
+  xy: 691, 914
+  size: 391, 659
+  orig: 456, 659
+  offset: 65, 0
+  index: -1
+hair_B2
+  rotate: true
+  xy: 1807, 803
+  size: 165, 239
+  orig: 456, 659
+  offset: 1, 312
+  index: -1
+hair_Ex
+  rotate: false
+  xy: 1807, 444
+  size: 194, 159
+  orig: 194, 180
+  offset: 0, 21
+  index: -1
+hair_F
+  rotate: true
+  xy: 1168, 36
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 1898, 1247
+  size: 116, 148
+  orig: 116, 148
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 1045
+  size: 687, 1001
+  orig: 691, 1004
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 728, 407
+  size: 317, 505
+  orig: 428, 505
+  offset: 0, 0
+  index: -1
+weapon1-2B
+  rotate: true
+  xy: 2, 14
+  size: 1029, 557
+  orig: 1029, 557
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 1548, 1365
+  size: 442, 681
+  orig: 442, 681
+  offset: 0, 0
+  index: -1
+weapon2-2Lv1+2
+  rotate: true
+  xy: 802, 26
+  size: 132, 182
+  orig: 132, 182
+  offset: 0, 0
+  index: -1

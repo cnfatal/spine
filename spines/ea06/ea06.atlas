@@ -1,0 +1,342 @@
+
+ea06.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 895, 307
+  size: 256, 304
+  orig: 256, 304
+  offset: 0, 0
+  index: -1
+LBreast
+  rotate: false
+  xy: 375, 2
+  size: 192, 222
+  orig: 192, 223
+  offset: 0, 1
+  index: -1
+LBreast2
+  rotate: false
+  xy: 1876, 796
+  size: 120, 124
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+LEyeBorder
+  rotate: false
+  xy: 1876, 589
+  size: 57, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+LEye_blkline
+  rotate: true
+  xy: 2001, 1803
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+LEye_main
+  rotate: false
+  xy: 1946, 1457
+  size: 43, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+LEyebrows
+  rotate: true
+  xy: 1103, 1290
+  size: 37, 52
+  orig: 38, 52
+  offset: 1, 0
+  index: -1
+LHand
+  rotate: false
+  xy: 1876, 922
+  size: 121, 163
+  orig: 139, 163
+  offset: 18, 0
+  index: -1
+LLeg
+  rotate: false
+  xy: 583, 603
+  size: 293, 685
+  orig: 293, 685
+  offset: 0, 0
+  index: -1
+LUpArm
+  rotate: true
+  xy: 878, 792
+  size: 496, 277
+  orig: 496, 277
+  offset: 0, 0
+  index: -1
+LUpLeg
+  rotate: false
+  xy: 583, 163
+  size: 310, 438
+  orig: 310, 439
+  offset: 0, 1
+  index: -1
+LV1 Cloth
+  rotate: false
+  xy: 1153, 335
+  size: 283, 290
+  orig: 283, 290
+  offset: 0, 0
+  index: -1
+LV1 LUpArm
+  rotate: true
+  xy: 1584, 1001
+  size: 490, 290
+  orig: 490, 290
+  offset: 0, 0
+  index: -1
+LV1 RUpArm
+  rotate: false
+  xy: 1607, 400
+  size: 245, 191
+  orig: 245, 191
+  offset: 0, 0
+  index: -1
+LV2 BkCloth
+  rotate: true
+  xy: 767, 45
+  size: 116, 126
+  orig: 116, 126
+  offset: 0, 0
+  index: -1
+LV2 LBreast
+  rotate: false
+  xy: 1446, 159
+  size: 231, 237
+  orig: 235, 237
+  offset: 1, 0
+  index: -1
+LV2 Skirt
+  rotate: false
+  xy: 895, 52
+  size: 281, 253
+  orig: 281, 253
+  offset: 0, 0
+  index: -1
+LV2 cloth
+  rotate: false
+  xy: 1157, 940
+  size: 425, 486
+  orig: 512, 712
+  offset: 7, 205
+  index: -1
+LV2 cloth v2
+  rotate: true
+  xy: 1157, 627
+  size: 311, 460
+  orig: 488, 674
+  offset: 7, 214
+  index: -1
+LV3 pants A
+  rotate: false
+  xy: 1876, 647
+  size: 82, 147
+  orig: 783, 395
+  offset: 266, 0
+  index: -1
+LV3 pants B
+  rotate: false
+  xy: 1917, 1567
+  size: 85, 206
+  orig: 85, 206
+  offset: 0, 0
+  index: -1
+Pat
+  rotate: true
+  xy: 1178, 56
+  size: 277, 266
+  orig: 277, 304
+  offset: 0, 0
+  index: -1
+RArm
+  rotate: false
+  xy: 1917, 1775
+  size: 82, 270
+  orig: 82, 270
+  offset: 0, 0
+  index: -1
+REyeBorder
+  rotate: true
+  xy: 1584, 950
+  size: 49, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+REye_blkline
+  rotate: true
+  xy: 2035, 1999
+  size: 46, 11
+  orig: 47, 11
+  offset: 0, 0
+  index: -1
+REye_main
+  rotate: true
+  xy: 1122, 750
+  size: 40, 29
+  orig: 59, 30
+  offset: 0, 1
+  index: -1
+REyebrow
+  rotate: false
+  xy: 2, 3
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+RFinger
+  rotate: true
+  xy: 1499, 1428
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+RFinger2
+  rotate: true
+  xy: 1650, 119
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+RHand
+  rotate: false
+  xy: 1960, 622
+  size: 75, 96
+  orig: 75, 96
+  offset: 0, 0
+  index: -1
+RLeg
+  rotate: false
+  xy: 1499, 1493
+  size: 416, 552
+  orig: 416, 552
+  offset: 0, 0
+  index: -1
+RUpArm
+  rotate: true
+  xy: 1679, 172
+  size: 226, 162
+  orig: 226, 162
+  offset: 0, 0
+  index: -1
+RUpLeg
+  rotate: false
+  xy: 1619, 593
+  size: 255, 406
+  orig: 255, 406
+  offset: 0, 0
+  index: -1
+Ribbon
+  rotate: false
+  xy: 878, 613
+  size: 242, 177
+  orig: 242, 177
+  offset: 0, 0
+  index: -1
+Ribbon2
+  rotate: true
+  xy: 1438, 398
+  size: 227, 167
+  orig: 227, 167
+  offset: 0, 0
+  index: -1
+Tail
+  rotate: false
+  xy: 2, 226
+  size: 579, 1062
+  orig: 579, 1062
+  offset: 0, 0
+  index: -1
+UpBody
+  rotate: false
+  xy: 1103, 1428
+  size: 394, 617
+  orig: 394, 617
+  offset: 0, 0
+  index: -1
+Weapon
+  rotate: false
+  xy: 2, 1290
+  size: 1099, 755
+  orig: 1099, 755
+  offset: 0, 0
+  index: -1
+Weapon handle
+  rotate: false
+  xy: 2, 18
+  size: 371, 206
+  orig: 371, 206
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 569, 18
+  size: 143, 196
+  orig: 143, 196
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 2001, 1861
+  size: 32, 184
+  orig: 32, 184
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 1876, 1286
+  size: 68, 205
+  orig: 68, 205
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 1446, 54
+  size: 103, 202
+  orig: 103, 202
+  offset: 0, 0
+  index: -1
+hair5
+  rotate: false
+  xy: 1876, 1087
+  size: 82, 197
+  orig: 82, 197
+  offset: 0, 0
+  index: -1
+hair6
+  rotate: true
+  xy: 1917, 1503
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+hair7
+  rotate: true
+  xy: 1960, 720
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+hair8
+  rotate: false
+  xy: 1103, 1329
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1946, 1425
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+b009_04_CG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LV1234_calf_R
+  rotate: false
+  xy: 1301, 12
+  size: 324, 288
+  orig: 371, 288
+  offset: 0, 0
+  index: -1
+LV1234_foot_L
+  rotate: false
+  xy: 1627, 106
+  size: 97, 194
+  orig: 162, 395
+  offset: 39, 164
+  index: -1
+LV1234_forearm_R
+  rotate: false
+  xy: 1860, 881
+  size: 162, 284
+  orig: 162, 284
+  offset: 0, 0
+  index: -1
+LV1234_hair_B
+  rotate: false
+  xy: 727, 482
+  size: 574, 642
+  orig: 574, 651
+  offset: 0, 0
+  index: -1
+LV1234_hair_F
+  rotate: false
+  xy: 1108, 70
+  size: 191, 192
+  orig: 197, 192
+  offset: 0, 0
+  index: -1
+LV1234_hair_L
+  rotate: false
+  xy: 1825, 309
+  size: 149, 238
+  orig: 149, 238
+  offset: 0, 0
+  index: -1
+LV1234_hair_R
+  rotate: false
+  xy: 604, 12
+  size: 114, 188
+  orig: 121, 190
+  offset: 7, 2
+  index: -1
+LV1234_head
+  rotate: true
+  xy: 1452, 1138
+  size: 294, 382
+  orig: 324, 436
+  offset: 0, 54
+  index: -1
+LV1234_head_flower_01
+  rotate: false
+  xy: 1860, 777
+  size: 115, 102
+  orig: 115, 102
+  offset: 0, 0
+  index: -1
+LV1234_thigh_L
+  rotate: true
+  xy: 727, 264
+  size: 216, 562
+  orig: 245, 562
+  offset: 29, 0
+  index: -1
+LV123_thigh_R
+  rotate: false
+  xy: 1755, 1472
+  size: 198, 573
+  orig: 198, 590
+  offset: 0, 17
+  index: -1
+LV12_body
+  rotate: false
+  xy: 2, 1124
+  size: 723, 921
+  orig: 723, 1048
+  offset: 0, 127
+  index: -1
+LV12_skirt_B1
+  rotate: true
+  xy: 1726, 188
+  size: 112, 95
+  orig: 126, 98
+  offset: 0, 3
+  index: -1
+LV12_skirt_B2
+  rotate: true
+  xy: 720, 5
+  size: 133, 150
+  orig: 133, 151
+  offset: 0, 1
+  index: -1
+LV12_skirt_F
+  rotate: true
+  xy: 1303, 639
+  size: 485, 170
+  orig: 489, 170
+  offset: 0, 0
+  index: -1
+LV12_skirt_shadow
+  rotate: false
+  xy: 1475, 549
+  size: 421, 196
+  orig: 421, 213
+  offset: 0, 17
+  index: -1
+LV1_flower
+  rotate: false
+  xy: 1475, 747
+  size: 383, 389
+  orig: 383, 414
+  offset: 0, 25
+  index: -1
+LV1_flower_heart
+  rotate: false
+  xy: 1955, 1953
+  size: 78, 92
+  orig: 80, 92
+  offset: 2, 0
+  index: -1
+LV1_skirt_B_L
+  rotate: false
+  xy: 1452, 1434
+  size: 301, 611
+  orig: 301, 611
+  offset: 0, 0
+  index: -1
+LV1_skirt_B_R
+  rotate: false
+  xy: 1471, 302
+  size: 352, 245
+  orig: 352, 245
+  offset: 0, 0
+  index: -1
+LV1_skirt_shadow
+  rotate: false
+  xy: 1303, 391
+  size: 166, 246
+  orig: 166, 246
+  offset: 0, 0
+  index: -1
+LV34_breast
+  rotate: true
+  xy: 1836, 1167
+  size: 303, 198
+  orig: 323, 219
+  offset: 14, 0
+  index: -1
+LV3_body
+  rotate: false
+  xy: 727, 1126
+  size: 723, 919
+  orig: 723, 1048
+  offset: 0, 129
+  index: -1
+LV3_skirt_F
+  rotate: false
+  xy: 727, 140
+  size: 379, 122
+  orig: 379, 122
+  offset: 0, 0
+  index: -1
+LV4_body
+  rotate: false
+  xy: 2, 202
+  size: 723, 920
+  orig: 723, 1048
+  offset: 0, 128
+  index: -1
+LV4_thigh_R
+  rotate: true
+  xy: 2, 2
+  size: 198, 600
+  orig: 198, 611
+  offset: 0, 11
+  index: -1

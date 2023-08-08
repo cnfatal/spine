@@ -1,0 +1,146 @@
+
+li04_01_Cg_Spine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 521
+  size: 799, 1511
+  orig: 799, 1511
+  offset: 0, 0
+  index: -1
+Hair1
+  rotate: true
+  xy: 1360, 115
+  size: 68, 97
+  orig: 193, 105
+  offset: 125, 8
+  index: -1
+Hair1.2
+  rotate: false
+  xy: 1615, 1051
+  size: 64, 70
+  orig: 193, 105
+  offset: 0, 0
+  index: -1
+LV1
+  rotate: false
+  xy: 748, 57
+  size: 425, 395
+  orig: 425, 395
+  offset: 0, 0
+  index: -1
+LV2
+  rotate: false
+  xy: 803, 989
+  size: 810, 1043
+  orig: 810, 1051
+  offset: 0, 0
+  index: -1
+LV2.2
+  rotate: false
+  xy: 1360, 185
+  size: 265, 219
+  orig: 265, 265
+  offset: 0, 46
+  index: -1
+LV2.3
+  rotate: true
+  xy: 583, 36
+  size: 483, 163
+  orig: 490, 170
+  offset: 0, 7
+  index: -1
+LV2.4
+  rotate: true
+  xy: 1175, 106
+  size: 346, 183
+  orig: 347, 186
+  offset: 1, 3
+  index: -1
+LV3
+  rotate: false
+  xy: 1627, 175
+  size: 210, 229
+  orig: 398, 448
+  offset: 0, 219
+  index: -1
+ear
+  rotate: false
+  xy: 1709, 711
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 1709, 767
+  size: 130, 104
+  orig: 130, 106
+  offset: 0, 2
+  index: -1
+hair
+  rotate: true
+  xy: 2, 2
+  size: 517, 579
+  orig: 592, 891
+  offset: 0, 302
+  index: -1
+hair2
+  rotate: true
+  xy: 1865, 1515
+  size: 217, 177
+  orig: 217, 177
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 1865, 1734
+  size: 178, 298
+  orig: 179, 298
+  offset: 0, 0
+  index: -1
+hair_F
+  rotate: true
+  xy: 1709, 873
+  size: 248, 197
+  orig: 248, 197
+  offset: 0, 0
+  index: -1
+hair_F2
+  rotate: false
+  xy: 1615, 1123
+  size: 245, 286
+  orig: 245, 286
+  offset: 0, 0
+  index: -1
+hand_B
+  rotate: false
+  xy: 803, 454
+  size: 648, 533
+  orig: 681, 536
+  offset: 0, 3
+  index: -1
+hand_B2
+  rotate: false
+  xy: 1865, 1452
+  size: 65, 61
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+hand_F
+  rotate: true
+  xy: 1615, 1411
+  size: 621, 248
+  orig: 621, 249
+  offset: 0, 1
+  index: -1
+hand_FLV1
+  rotate: true
+  xy: 1453, 406
+  size: 581, 254
+  orig: 596, 254
+  offset: 15, 0
+  index: -1

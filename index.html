@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<header>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+    }
+    .player-container {
+      height: 100%;
+      z-index: 999;
+    }
+  </style>
+</header>
+<body>
+  <script src="spine-player.js"></script>
+  <link rel="stylesheet" href="spine-player.css" />
+  <div id="player-container" class="player-container"></div>
+  <script>
+    var models = [
+      { name: "cq01_01_CG", type: "skel" },
+      { name: "d010_02_CG", type: "skel" },
+      { name: "DA04_CG01" },
+      { name: "EA05_CG01" },
+      { name: "HeManSha" },
+      { name: "a005_04" },
+      { name: "b009_04_CG" },
+      { name: "b010" },
+      { name: "c004_05_Cg_Spine" },
+      { name: "c004_06_CG" },
+      { name: "d002" },
+      { name: "d005" },
+      { name: "da05_01" },
+      { name: "da06" },
+      { name: "da07_01_Cg" },
+      { name: "da08_01" },
+      { name: "e007_04_Cg" },
+      { name: "ea04_01" },
+      { name: "ea06" },
+      { name: "ea07_01" },
+      { name: "ea08_01_Cg" },
+      { name: "f003_04_Cg_Spine" },
+      { name: "f006_04" },
+      { name: "fi04_01" },
+      { name: "fi05_01_CG" },
+      { name: "fi06" },
+      { name: "fi07_01_CG" },
+      { name: "fi08" },
+      { name: "fi09" },
+      { name: "g025_03" },
+      { name: "li01_01" },
+      { name: "li02_01" },
+      { name: "li03" },
+      { name: "li04_01_Cg_Spine" },
+      { name: "li06_01" },
+      { name: "wa04_01_Cg" },
+      { name: "wa05_01" },
+      { name: "wa07" },
+      { name: "wa08_01" },
+      { name: "wa09_01" },
+      { name: "wi01_01" },
+      { name: "wi03_01" },
+      { name: "wi04" },
+      { name: "wi05" },
+    ];
+
+    let playerid = "player-container";
+
+    let queries = new URLSearchParams(window.location.search);
+    var lv = queries.get("level") - 1 || 0;
+    let showControls = queries.get("controls") || false;
+
+    function anim(touch) {
+      return (touch ? "Touch" : "Idle") + "_lv" + ((lv % 4) + 1);
+    }
+
+    function onEvent(event, callback) {
+      document.getElementById(playerid).addEventListener(event, (event) => {
+        callback();
+      });
+    }
+
+    function onClick(callback) {
+      onEvent("click", callback);
+      onEvent("touchstart", callback);
+    }
+
+    function onHover(enter, leave) {
+      onEvent("mouseenter", enter);
+      onEvent("mouseout", leave);
+    }
+
+    function onSucess(player) {
+      player.animationState.setAnimation(0, anim(), true, 0);
+      onHover(
+        () => {
+          player.animationState.setAnimation(0, anim(true));
+          player.animationState.addAnimation(0, anim(), true, 0);
+        },
+        () => {
+          player.animationState.addAnimation(0, anim(), true, 0);
+        }
+      );
+      onClick(() => {
+        lv++;
+        player.animationState.setAnimation(0, anim(true));
+        player.animationState.addAnimation(0, anim(), true, 0);
+      });
+    }
+
+    let model = models[Number.parseInt(Math.random() * models.length)];
+    let modelpath = "spines/" + model.name + "/" + model.name;
+    if (model.type == "skel") {
+      var skelUrl = modelpath + ".json";
+    } else {
+      var jsonUrl = modelpath + ".json";
+    }
+    new spine.SpinePlayer(playerid, {
+      jsonUrl: jsonUrl,
+      skelUrl: skelUrl,
+      atlasUrl: modelpath + ".atlas",
+      alpha: true,
+      backgroundColor: "#00000000",
+      showControls: showControls,
+      success: function (player) {
+        !showControls ? onSucess(player) : null;
+      },
+    });
+  </script>
+</body>

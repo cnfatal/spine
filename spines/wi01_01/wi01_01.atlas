@@ -1,0 +1,216 @@
+
+wi01_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Breast_L_Lv34
+  rotate: true
+  xy: 1144, 237
+  size: 162, 170
+  orig: 162, 177
+  offset: 0, 1
+  index: -1
+Breast_Lv12
+  rotate: true
+  xy: 1788, 1381
+  size: 302, 258
+  orig: 305, 258
+  offset: 3, 0
+  index: -1
+Breast_R_Lv34
+  rotate: false
+  xy: 1826, 515
+  size: 189, 199
+  orig: 196, 206
+  offset: 0, 0
+  index: -1
+Panties_01_Lv1
+  rotate: false
+  xy: 1087, 535
+  size: 424, 132
+  orig: 424, 132
+  offset: 0, 0
+  index: -1
+Panties_01_Lv23
+  rotate: false
+  xy: 1087, 401
+  size: 424, 132
+  orig: 424, 132
+  offset: 0, 0
+  index: -1
+Thigh_L_Lv1234
+  rotate: false
+  xy: 784, 756
+  size: 320, 1289
+  orig: 334, 1289
+  offset: 14, 0
+  index: -1
+Thigh_R_Lv1234
+  rotate: false
+  xy: 1106, 963
+  size: 354, 1082
+  orig: 354, 1082
+  offset: 0, 0
+  index: -1
+body_Lv1234
+  rotate: false
+  xy: 2, 920
+  size: 780, 1125
+  orig: 780, 1125
+  offset: 0, 0
+  index: -1
+clothes_01_Lv123
+  rotate: false
+  xy: 1106, 669
+  size: 355, 292
+  orig: 355, 292
+  offset: 0, 0
+  index: -1
+clothes_01_upLv1
+  rotate: false
+  xy: 1316, 241
+  size: 123, 158
+  orig: 123, 158
+  offset: 0, 0
+  index: -1
+clothes_Lv1
+  rotate: true
+  xy: 1788, 1685
+  size: 360, 258
+  orig: 360, 303
+  offset: 0, 45
+  index: -1
+clothes_dowm_Lv1
+  rotate: false
+  xy: 1731, 350
+  size: 83, 105
+  orig: 103, 119
+  offset: 0, 3
+  index: -1
+face_Lv1234
+  rotate: false
+  xy: 970, 250
+  size: 172, 149
+  orig: 173, 149
+  offset: 1, 0
+  index: -1
+hair_DL_up_Lv1234
+  rotate: false
+  xy: 668, 780
+  size: 62, 138
+  orig: 63, 140
+  offset: 1, 1
+  index: -1
+hair_DR_up_Lv1234
+  rotate: false
+  xy: 1970, 1247
+  size: 54, 132
+  orig: 68, 139
+  offset: 14, 0
+  index: -1
+hair_Dowm_Lv1234
+  rotate: true
+  xy: 1462, 994
+  size: 384, 363
+  orig: 385, 378
+  offset: 0, 15
+  index: -1
+hair_L_up_Lv1234
+  rotate: true
+  xy: 1836, 862
+  size: 178, 210
+  orig: 182, 210
+  offset: 3, 0
+  index: -1
+hair_LineL_01_Lv1234
+  rotate: false
+  xy: 1463, 722
+  size: 371, 270
+  orig: 371, 270
+  offset: 0, 0
+  index: -1
+hair_LineL_02_Lv1234
+  rotate: false
+  xy: 2, 2
+  size: 456, 180
+  orig: 456, 181
+  offset: 0, 0
+  index: -1
+hair_LineR_01_Lv1234
+  rotate: true
+  xy: 722, 10
+  size: 234, 305
+  orig: 234, 306
+  offset: 0, 0
+  index: -1
+hair_LineR_02_Lv1234
+  rotate: false
+  xy: 1513, 457
+  size: 311, 263
+  orig: 311, 263
+  offset: 0, 0
+  index: -1
+hair_R_up_Lv1234
+  rotate: true
+  xy: 1513, 305
+  size: 150, 216
+  orig: 164, 216
+  offset: 1, 0
+  index: -1
+hair_up01_Lv1234
+  rotate: true
+  xy: 1836, 716
+  size: 144, 207
+  orig: 149, 214
+  offset: 0, 1
+  index: -1
+hair_up_Lv1234
+  rotate: true
+  xy: 460, 6
+  size: 176, 260
+  orig: 212, 292
+  offset: 30, 20
+  index: -1
+head_Lv1234
+  rotate: false
+  xy: 668, 246
+  size: 300, 281
+  orig: 300, 282
+  offset: 0, 0
+  index: -1
+lower_arm_L_Lv1234
+  rotate: false
+  xy: 2, 184
+  size: 664, 734
+  orig: 664, 734
+  offset: 0, 0
+  index: -1
+shadow_Lv1
+  rotate: false
+  xy: 668, 529
+  size: 417, 225
+  orig: 426, 235
+  offset: 6, 4
+  index: -1
+skirt_Bow_Lv1
+  rotate: false
+  xy: 1826, 351
+  size: 207, 162
+  orig: 422, 311
+  offset: 118, 149
+  index: -1
+skirt_Lv1
+  rotate: true
+  xy: 1462, 1380
+  size: 665, 324
+  orig: 665, 333
+  offset: 0, 9
+  index: -1
+skirt_dowmLv1
+  rotate: true
+  xy: 1827, 1042
+  size: 337, 141
+  orig: 351, 271
+  offset: 0, 4
+  index: -1

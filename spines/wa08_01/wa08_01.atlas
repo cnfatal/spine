@@ -1,0 +1,272 @@
+
+wa08_01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black_Ribbon_Lv12
+  rotate: true
+  xy: 1927, 879
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+Black_Ribbon_Lv34
+  rotate: false
+  xy: 1369, 763
+  size: 80, 59
+  orig: 98, 72
+  offset: 0, 0
+  index: -1
+Blue-Hair_Lv1234
+  rotate: true
+  xy: 651, 640
+  size: 63, 105
+  orig: 63, 141
+  offset: 0, 36
+  index: -1
+Body_Lv1
+  rotate: false
+  xy: 1658, 681
+  size: 267, 456
+  orig: 267, 465
+  offset: 0, 9
+  index: -1
+Body_Lv2
+  rotate: false
+  xy: 1049, 249
+  size: 267, 454
+  orig: 268, 462
+  offset: 1, 8
+  index: -1
+Body_Lv3
+  rotate: false
+  xy: 1318, 141
+  size: 264, 452
+  orig: 265, 460
+  offset: 1, 8
+  index: -1
+Body_Lv4
+  rotate: false
+  xy: 1584, 141
+  size: 263, 452
+  orig: 379, 654
+  offset: 116, 51
+  index: -1
+Bu_Lv23
+  rotate: false
+  xy: 1205, 725
+  size: 162, 97
+  orig: 268, 462
+  offset: 39, 12
+  index: -1
+Chest_L_LV34
+  rotate: false
+  xy: 938, 40
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+Chest_R_LV34
+  rotate: false
+  xy: 1927, 1055
+  size: 76, 88
+  orig: 76, 88
+  offset: 0, 0
+  index: -1
+Coat_B_Lv1234
+  rotate: true
+  xy: 2, 8
+  size: 611, 431
+  orig: 636, 444
+  offset: 0, 0
+  index: -1
+Coat_L_Lv1234
+  rotate: false
+  xy: 435, 14
+  size: 343, 609
+  orig: 343, 796
+  offset: 0, 0
+  index: -1
+Coat_R_Lv1234
+  rotate: false
+  xy: 1050, 824
+  size: 399, 676
+  orig: 399, 676
+  offset: 0, 0
+  index: -1
+Face_Lv1
+  rotate: false
+  xy: 780, 2
+  size: 156, 123
+  orig: 163, 123
+  offset: 7, 0
+  index: -1
+Face_Lv23
+  rotate: false
+  xy: 1050, 708
+  size: 153, 114
+  orig: 156, 114
+  offset: 0, 0
+  index: -1
+Face_Lv4
+  rotate: false
+  xy: 1849, 210
+  size: 153, 121
+  orig: 156, 122
+  offset: 0, 1
+  index: -1
+Finger_R_Lv1234
+  rotate: true
+  xy: 1999, 1973
+  size: 60, 27
+  orig: 399, 676
+  offset: 122, 294
+  index: -1
+Hair_B_Lv1234
+  rotate: false
+  xy: 1049, 58
+  size: 189, 189
+  orig: 190, 190
+  offset: 0, 1
+  index: -1
+Hair_F_Lv1234
+  rotate: false
+  xy: 1849, 491
+  size: 175, 188
+  orig: 175, 188
+  offset: 0, 0
+  index: -1
+Hair_L_Lv1234
+  rotate: true
+  xy: 1658, 614
+  size: 65, 151
+  orig: 65, 151
+  offset: 0, 0
+  index: -1
+Hair_M_Lv1234
+  rotate: true
+  xy: 1240, 133
+  size: 114, 76
+  orig: 114, 76
+  offset: 0, 0
+  index: -1
+Hand_L_Lv1234
+  rotate: false
+  xy: 1867, 1719
+  size: 130, 314
+  orig: 130, 314
+  offset: 0, 0
+  index: -1
+Hand_R_Lv1234
+  rotate: true
+  xy: 1867, 1145
+  size: 109, 158
+  orig: 116, 158
+  offset: 3, 0
+  index: -1
+Hat_Lv12345
+  rotate: true
+  xy: 780, 127
+  size: 576, 267
+  orig: 597, 358
+  offset: 21, 11
+  index: -1
+Hat_b_Lv1234
+  rotate: true
+  xy: 1867, 1476
+  size: 241, 146
+  orig: 564, 358
+  offset: 221, 212
+  index: -1
+Head_Lv1234
+  rotate: false
+  xy: 1849, 333
+  size: 167, 156
+  orig: 169, 160
+  offset: 2, 2
+  index: -1
+Leg_L_Lv1
+  rotate: true
+  xy: 708, 1711
+  size: 322, 889
+  orig: 322, 889
+  offset: 0, 0
+  index: -1
+Leg_L_Lv23
+  rotate: false
+  xy: 2, 621
+  size: 325, 887
+  orig: 325, 887
+  offset: 0, 0
+  index: -1
+Leg_L_Lv4
+  rotate: false
+  xy: 329, 625
+  size: 320, 883
+  orig: 320, 883
+  offset: 0, 0
+  index: -1
+Leg_R_Lv1
+  rotate: true
+  xy: 708, 1502
+  size: 207, 895
+  orig: 207, 895
+  offset: 0, 0
+  index: -1
+Leg_R_Lv23
+  rotate: false
+  xy: 1658, 1139
+  size: 207, 894
+  orig: 207, 894
+  offset: 0, 0
+  index: -1
+Leg_R_Lv4
+  rotate: false
+  xy: 1451, 595
+  size: 205, 905
+  orig: 205, 905
+  offset: 0, 0
+  index: -1
+Ribbon_Lv1234
+  rotate: false
+  xy: 2, 1510
+  size: 704, 523
+  orig: 704, 523
+  offset: 0, 0
+  index: -1
+Stick_Lv1234
+  rotate: false
+  xy: 651, 705
+  size: 397, 795
+  orig: 407, 845
+  offset: 10, 0
+  index: -1
+Test-tube_B_Lv1
+  rotate: false
+  xy: 1599, 1934
+  size: 36, 99
+  orig: 95, 103
+  offset: 5, 3
+  index: -1
+Test-tube_G_Lv1
+  rotate: true
+  xy: 1849, 148
+  size: 60, 93
+  orig: 95, 103
+  offset: 35, 5
+  index: -1
+Test-tube_Lv23
+  rotate: false
+  xy: 1867, 1256
+  size: 167, 218
+  orig: 167, 218
+  offset: 0, 0
+  index: -1
+Test-tube_P_Lv1
+  rotate: false
+  xy: 1927, 958
+  size: 58, 95
+  orig: 95, 103
+  offset: 18, 4
+  index: -1

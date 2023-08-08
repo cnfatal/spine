@@ -1,0 +1,286 @@
+
+wa04_01_Cg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_flower_lv1234
+  rotate: true
+  xy: 1177, 67
+  size: 50, 47
+  orig: 50, 48
+  offset: 0, 1
+  index: -1
+body_lv1
+  rotate: false
+  xy: 2, 1204
+  size: 826, 841
+  orig: 910, 841
+  offset: 74, 0
+  index: -1
+body_lv234
+  rotate: true
+  xy: 850, 119
+  size: 235, 471
+  orig: 343, 814
+  offset: 108, 343
+  index: -1
+butterfly_lv1234
+  rotate: false
+  xy: 1323, 226
+  size: 671, 128
+  orig: 671, 131
+  offset: 0, 3
+  index: -1
+chest_l_lv12
+  rotate: true
+  xy: 1893, 427
+  size: 125, 128
+  orig: 125, 128
+  offset: 0, 0
+  index: -1
+chest_l_lv3
+  rotate: true
+  xy: 1893, 554
+  size: 119, 140
+  orig: 119, 146
+  offset: 0, 0
+  index: -1
+chest_l_lv4
+  rotate: true
+  xy: 1760, 1762
+  size: 119, 125
+  orig: 119, 133
+  offset: 0, 0
+  index: -1
+chest_r_lv12
+  rotate: true
+  xy: 1893, 940
+  size: 159, 129
+  orig: 217, 133
+  offset: 58, 0
+  index: -1
+chest_r_lv3
+  rotate: true
+  xy: 1893, 1101
+  size: 142, 146
+  orig: 215, 155
+  offset: 71, 0
+  index: -1
+chest_r_lv4
+  rotate: false
+  xy: 1893, 805
+  size: 144, 133
+  orig: 215, 141
+  offset: 69, 0
+  index: -1
+cloth_lv23
+  rotate: true
+  xy: 830, 1206
+  size: 839, 600
+  orig: 839, 628
+  offset: 0, 11
+  index: -1
+cloth_lv4
+  rotate: true
+  xy: 730, 356
+  size: 846, 602
+  orig: 855, 672
+  offset: 0, 51
+  index: -1
+face_lv1234
+  rotate: false
+  xy: 1702, 1520
+  size: 101, 83
+  orig: 101, 83
+  offset: 0, 0
+  index: -1
+feet_lb_lv1234
+  rotate: true
+  xy: 1432, 1235
+  size: 267, 390
+  orig: 291, 639
+  offset: 0, 0
+  index: -1
+feet_lf_lv1234
+  rotate: true
+  xy: 1432, 1868
+  size: 177, 326
+  orig: 291, 639
+  offset: 114, 313
+  index: -1
+feet_r_lv1234
+  rotate: true
+  xy: 2, 38
+  size: 294, 846
+  orig: 294, 846
+  offset: 0, 0
+  index: -1
+grass_d_lv1234
+  rotate: true
+  xy: 1432, 1577
+  size: 183, 268
+  orig: 183, 268
+  offset: 0, 0
+  index: -1
+grass_t_lv1234
+  rotate: true
+  xy: 1152, 2
+  size: 60, 82
+  orig: 60, 88
+  offset: 0, 6
+  index: -1
+hair_b_lv1234
+  rotate: true
+  xy: 2, 334
+  size: 868, 726
+  orig: 868, 1191
+  offset: 0, 428
+  index: -1
+hair_l1_lv1234
+  rotate: true
+  xy: 850, 64
+  size: 53, 325
+  orig: 53, 325
+  offset: 0, 0
+  index: -1
+hair_l2_lv1234
+  rotate: false
+  xy: 1824, 1245
+  size: 203, 257
+  orig: 203, 259
+  offset: 0, 2
+  index: -1
+hair_ld_lv1234
+  rotate: false
+  xy: 1893, 1861
+  size: 144, 184
+  orig: 144, 184
+  offset: 0, 0
+  index: -1
+hair_m_lv1234
+  rotate: true
+  xy: 850, 25
+  size: 37, 158
+  orig: 44, 158
+  offset: 0, 0
+  index: -1
+hair_r2_lv1234
+  rotate: false
+  xy: 1893, 1681
+  size: 143, 178
+  orig: 143, 178
+  offset: 0, 0
+  index: -1
+hair_r_lv1234
+  rotate: true
+  xy: 1010, 22
+  size: 40, 140
+  orig: 42, 150
+  offset: 2, 1
+  index: -1
+hair_rd_lv1234
+  rotate: true
+  xy: 1236, 17
+  size: 100, 162
+  orig: 100, 162
+  offset: 0, 0
+  index: -1
+hand_lb_lv1234
+  rotate: true
+  xy: 1806, 4
+  size: 75, 183
+  orig: 75, 187
+  offset: 0, 0
+  index: -1
+hand_lf_lv1234
+  rotate: true
+  xy: 1893, 1504
+  size: 175, 124
+  orig: 176, 150
+  offset: 1, 12
+  index: -1
+hand_r_lv1234
+  rotate: true
+  xy: 1507, 22
+  size: 202, 297
+  orig: 207, 299
+  offset: 5, 2
+  index: -1
+head_lv1234
+  rotate: false
+  xy: 1702, 1605
+  size: 162, 155
+  orig: 162, 155
+  offset: 0, 0
+  index: -1
+mouth_lv1234
+  rotate: true
+  xy: 2, 8
+  size: 28, 19
+  orig: 101, 83
+  offset: 54, 0
+  index: -1
+panties_lv123
+  rotate: false
+  xy: 1806, 81
+  size: 231, 143
+  orig: 238, 170
+  offset: 7, 27
+  index: -1
+skirt_lv1
+  rotate: true
+  xy: 1334, 364
+  size: 840, 557
+  orig: 900, 806
+  offset: 0, 0
+  index: -1
+skirt_lv234
+  rotate: true
+  xy: 1334, 364
+  size: 840, 557
+  orig: 900, 806
+  offset: 0, 0
+  index: -1
+sleeve_lb_lv123
+  rotate: false
+  xy: 1400, 27
+  size: 91, 110
+  orig: 101, 116
+  offset: 2, 0
+  index: -1
+sleeve_lf_lv123
+  rotate: false
+  xy: 1760, 1883
+  size: 92, 162
+  orig: 92, 168
+  offset: 0, 6
+  index: -1
+sleeve_rb_lv123
+  rotate: false
+  xy: 1805, 1509
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+sleeve_rf_lv123
+  rotate: true
+  xy: 1323, 139
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1
+wite_flower_lv1234
+  rotate: false
+  xy: 1432, 1785
+  size: 80, 81
+  orig: 80, 82
+  offset: 0, 1
+  index: -1
+yeallow_lv1234
+  rotate: true
+  xy: 1893, 675
+  size: 128, 140
+  orig: 128, 140
+  offset: 0, 0
+  index: -1

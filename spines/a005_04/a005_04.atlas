@@ -1,0 +1,251 @@
+
+a005_04.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Breast_L_Lv12
+  rotate: true
+  xy: 968, 95
+  size: 158, 267
+  orig: 158, 267
+  offset: 0, 0
+  index: -1
+Breast_L_Lv34
+  rotate: false
+  xy: 1237, 61
+  size: 153, 192
+  orig: 155, 205
+  offset: 0, 2
+  index: -1
+Breast_R_Lv12
+  rotate: false
+  xy: 1391, 864
+  size: 232, 305
+  orig: 232, 309
+  offset: 0, 0
+  index: -1
+Breast_R_Lv34
+  rotate: false
+  xy: 1867, 449
+  size: 167, 187
+  orig: 168, 188
+  offset: 0, 0
+  index: -1
+Panties_Lv123
+  rotate: false
+  xy: 535, 83
+  size: 260, 187
+  orig: 260, 187
+  offset: 0, 0
+  index: -1
+Panties_Lv4
+  rotate: true
+  xy: 1641, 509
+  size: 365, 224
+  orig: 365, 224
+  offset: 0, 0
+  index: -1
+Thigh_L_Lv1234
+  rotate: true
+  xy: 982, 255
+  size: 291, 360
+  orig: 304, 388
+  offset: 13, 0
+  index: -1
+Thigh_L_up_Lv1234
+  rotate: false
+  xy: 757, 305
+  size: 223, 445
+  orig: 247, 449
+  offset: 0, 4
+  index: -1
+Thigh_R_Lv1234
+  rotate: true
+  xy: 939, 1665
+  size: 381, 986
+  orig: 381, 988
+  offset: 0, 0
+  index: -1
+body_Lv1234
+  rotate: true
+  xy: 910, 877
+  size: 292, 479
+  orig: 292, 480
+  offset: 0, 0
+  index: -1
+body_accessories_Lv1234
+  rotate: false
+  xy: 1344, 271
+  size: 67, 72
+  orig: 68, 72
+  offset: 1, 0
+  index: -1
+bra-strip_down_Lv34
+  rotate: false
+  xy: 2, 61
+  size: 531, 209
+  orig: 531, 209
+  offset: 0, 0
+  index: -1
+bra-strip_up_Lv34
+  rotate: false
+  xy: 1615, 327
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
+clothes_Back_Down_Lv1234
+  rotate: false
+  xy: 2, 1269
+  size: 935, 777
+  orig: 935, 777
+  offset: 0, 0
+  index: -1
+clothes_Skirt_Lv1
+  rotate: false
+  xy: 2, 272
+  size: 753, 478
+  orig: 753, 478
+  offset: 0, 0
+  index: -1
+clothes_Skirt_Lv234
+  rotate: false
+  xy: 2, 752
+  size: 906, 515
+  orig: 906, 515
+  offset: 0, 0
+  index: -1
+face_Lv12
+  rotate: false
+  xy: 1600, 221
+  size: 157, 104
+  orig: 159, 104
+  offset: 2, 0
+  index: -1
+face_Lv34
+  rotate: false
+  xy: 1807, 325
+  size: 157, 122
+  orig: 178, 128
+  offset: 16, 6
+  index: -1
+hair_Down_L_Lv1234
+  rotate: false
+  xy: 939, 1171
+  size: 598, 492
+  orig: 598, 492
+  offset: 0, 0
+  index: -1
+hair_Down_R_Lv1234
+  rotate: false
+  xy: 1539, 1175
+  size: 407, 488
+  orig: 408, 488
+  offset: 0, 0
+  index: -1
+hair_L_down_Lv1234
+  rotate: false
+  xy: 1867, 638
+  size: 131, 236
+  orig: 131, 236
+  offset: 0, 0
+  index: -1
+hair_R_down_Lv1234
+  rotate: false
+  xy: 1344, 345
+  size: 121, 201
+  orig: 122, 201
+  offset: 0, 0
+  index: -1
+hair_Top_Lv1234
+  rotate: false
+  xy: 1467, 257
+  size: 131, 147
+  orig: 131, 147
+  offset: 0, 0
+  index: -1
+hair_Top_R_Lv1234
+  rotate: false
+  xy: 1467, 406
+  size: 146, 152
+  orig: 147, 154
+  offset: 0, 0
+  index: -1
+hair_flower_Lv1234
+  rotate: true
+  xy: 797, 83
+  size: 220, 169
+  orig: 221, 176
+  offset: 0, 0
+  index: -1
+head_Lv1234
+  rotate: false
+  xy: 982, 548
+  size: 382, 327
+  orig: 382, 328
+  offset: 0, 1
+  index: -1
+lower_arm_L_Lv1234
+  rotate: false
+  xy: 1625, 876
+  size: 299, 297
+  orig: 299, 297
+  offset: 0, 0
+  index: -1
+lower_arm_R_Lv1234
+  rotate: true
+  xy: 1366, 560
+  size: 302, 273
+  orig: 303, 273
+  offset: 0, 0
+  index: -1
+water_01_Lv1234
+  rotate: false
+  xy: 1927, 1686
+  size: 98, 171
+  orig: 98, 171
+  offset: 0, 0
+  index: -1
+water_02_Lv1234
+  rotate: false
+  xy: 1759, 221
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+water_03_Lv1234
+  rotate: false
+  xy: 1966, 299
+  size: 80, 148
+  orig: 80, 148
+  offset: 0, 0
+  index: -1
+water_04_Lv1234
+  rotate: false
+  xy: 910, 773
+  size: 52, 102
+  orig: 52, 102
+  offset: 0, 0
+  index: -1
+water_05_Lv1234
+  rotate: true
+  xy: 2, 2
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+water_06_Lv1234
+  rotate: false
+  xy: 1927, 1859
+  size: 89, 187
+  orig: 89, 187
+  offset: 0, 0
+  index: -1
+water_07_Lv1234
+  rotate: false
+  xy: 968, 281
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
