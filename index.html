@@ -81,27 +81,24 @@
       });
     }
 
-    function initEvents(ontouch, onlongtouch) {
+    function initEvents(onTouch, onDoubleTouch) {
       let timeout = 500;
-      lastpretouchtime = new Date().getTime();
-      onEvent("click", ontouch);
-      onEvent("mouseenter", ontouch);
-      onEvent("dblclick", onlongtouch);
+      lastpretouchtime = 0;
+      onEvent("click", onTouch);
+      onEvent("mouseenter", onTouch);
+      onEvent("dblclick", onDoubleTouch);
       onEvent("touchstart", () => {
-        ontouch();
-        longTouchTimeout = setTimeout(onlongtouch, timeout);
-        if (new Date().getTime() - lastpretouchtime < timeout) {
-          onlongtouch();
+        onTouch();
+        if (Date.now() - lastpretouchtime < timeout) {
+          onDoubleTouch();
+          lastpretouchtime = 0;
+        } else {
+          lastpretouchtime = Date.now();
         }
-        lastpretouchtime = new Date().getTime();
-      });
-      onEvent("touchend", () => {
-        clearTimeout(longTouchTimeout);
       });
     }
 
     function onSucess(player) {
-      player.animationState.setAnimation(0, anim(), true, 0);
       initEvents(
         () => {
           player.animationState.setAnimation(0, anim(true));
