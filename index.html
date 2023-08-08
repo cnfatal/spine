@@ -67,45 +67,52 @@
     let playerid = "player-container";
 
     let queries = new URLSearchParams(window.location.search);
-    var lv = queries.get("level") - 1 || 0;
+    var lv = parseInt(queries.get("level")) || 0; // 0 - 3
     let showControls = queries.get("controls") || false;
 
     function anim(touch) {
       return (touch ? "Touch" : "Idle") + "_lv" + ((lv % 4) + 1);
     }
 
-    function onEvent(event, callback) {
-      document.getElementById(playerid).addEventListener(event, (event) => {
+    function onEvent(type, callback) {
+      document.getElementById(playerid).addEventListener(type, (event) => {
+        console.log(event);
         callback();
       });
     }
 
-    function onClick(callback) {
-      onEvent("click", callback);
-      onEvent("touchstart", callback);
-    }
-
-    function onHover(enter, leave) {
-      onEvent("mouseenter", enter);
-      onEvent("mouseout", leave);
+    function initEvents(ontouch, onlongtouch) {
+      let timeout = 500;
+      lastpretouchtime = new Date().getTime();
+      onEvent("click", ontouch);
+      onEvent("mouseenter", ontouch);
+      onEvent("dblclick", onlongtouch);
+      onEvent("touchstart", () => {
+        ontouch();
+        longTouchTimeout = setTimeout(onlongtouch, timeout);
+        if (new Date().getTime() - lastpretouchtime < timeout) {
+          onlongtouch();
+        }
+        lastpretouchtime = new Date().getTime();
+      });
+      onEvent("touchend", () => {
+        clearTimeout(longTouchTimeout);
+      });
     }
 
     function onSucess(player) {
       player.animationState.setAnimation(0, anim(), true, 0);
-      onHover(
+      initEvents(
         () => {
           player.animationState.setAnimation(0, anim(true));
           player.animationState.addAnimation(0, anim(), true, 0);
         },
         () => {
+          lv++;
+          player.animationState.setAnimation(0, anim(true));
           player.animationState.addAnimation(0, anim(), true, 0);
         }
       );
-      onClick(() => {
-        lv++;
-        player.animationState.setAnimation(0, anim(true));
-        player.animationState.addAnimation(0, anim(), true, 0);
-      });
     }
 
     let model = models[Number.parseInt(Math.random() * models.length)];
